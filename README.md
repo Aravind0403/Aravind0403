@@ -1,10 +1,8 @@
-👋 Hi, I’m @Aravind0403
-👀 I’m interested in Machine Learning and Data science
-🌱 I’m currently learning API testing and re-visiting some of the Machine Learning concepts
-💞️ I’m looking to collaborate on any open source projects that deals on Machine Learning / Automation Testing
-📫 Please do reach out to me on Linkedin https://www.linkedin.com/in/aravind-sundaresan/
+# 👋 Hi, I’m **Aravind Sundaresan**
 
-<!---
-Aravind0403/Aravind0403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Infrastructure & Developer Productivity Engineer** with 7+ years at **Microsoft** and **Amazon**, building scalable CI/CD pipelines, distributed testing frameworks, and developer platforms for 17K+ services.
+
+💡 **Interests:** Machine Learning, Developer Infrastructure, Automation Testing, Distributed Systems, AI-powered Developer Tooling  
+📚 **Currently Learning:** API Testing best practices, revisiting core ML concepts, exploring open-source AI/automation frameworks  
+🤝 **Open to Collaborate On:** Open-source projects in **Machine Learning**, **Automation Testing**, **Developer Productivity**, or **Platform Reliability**  
+📫 **Connect with me on LinkedIn:** [linkedin.com/in/aravind-sundaresan](https://www.linkedin.com/in/aravind-sundaresan/)
